@@ -1,0 +1,50 @@
+body {
+	background-color: white;
+	font-family: 'impact' , fantasy; 
+}
+ h1{
+	border: 5px;
+	position: relative;
+	text-align: center;
+	
+	font-size: 30;
+}
+h2{
+	border: 3px;
+	position: relative;
+	text-align: left;
+	font-size: 25
+
+}
+p{
+	color:grey;
+	font-size: 15;
+	line-height: 40px;
+	font-style: italic;
+}.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img{
+	width: 30%																																																																																																																																																																																																																																																																																								     ;
+	max-width: 43.8kb
+	height:auto;
+}
+.btn {
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.SHARE {color: green;}
+.FACEBOOK {color: dodgerblue;}
+.TWITTER {color: orange;}
