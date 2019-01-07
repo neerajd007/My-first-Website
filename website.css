@@ -33,18 +33,18 @@ img{
 	max-width: 43.8kb
 	height:auto;
 }
-.btn {
+.button {
+  background-color: #4CAF50;
   border: none;
-  background-color: inherit;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
   display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
 }
 
-/* On mouse-over */
-.btn:hover {background: #eee;}
-
-.SHARE {color: green;}
-.FACEBOOK {color: dodgerblue;}
-.TWITTER {color: orange;}
+.button1 {border-radius: 2px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
